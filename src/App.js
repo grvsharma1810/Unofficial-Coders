@@ -14,6 +14,7 @@ class App extends Component {
         { id: 2, name: "Sumit Mishra", skills: ['C++', 'Android', 'Java', 'Python'], imgSrc: 'https://avatars2.githubusercontent.com/u/30742922?s=400&u=ab5d607e634b7e2ebc9b4b75ba609d00d9b10590&v=4', isActive: false },
         { id: 3, name: "Abhishek Anand", skills: ['C++','C','Python','Data Structures','Competitive Coding'], imgsrc: 'https://avatars3.githubusercontent.com/u/38378778?s=400&u=fde76370012524606227b706027d98a58b4ba8f7&v=4',isActive: false },
         { id: 4, name: "Sourav Patidar", skills: ['C++','Java','Competitive Coding','Android'], imgSrc: 'https://avatars2.githubusercontent.com/u/41509968?s=400&u=a2b2aeac1dde5010863be45c2860da85974ccaf9&v=4',isActive: false},
+        { id: 5, name: "Gaurav Kumar Sharma", skills: ['C++','Java','Competitive Coding','MERN'], imgSrc: 'https://avatars1.githubusercontent.com/u/42152126?s=400&u=0306983ad7079c08f1bf443f8262d80eb4dd5829&v=4',isActive: false},
         // { id: <Increment id>, name: "<Your Name>", skills: ['<Skill 1>', '<Skill 2>'], imgSrc: '<Path to your Image>', isActive: false },
       ],
       options: [
